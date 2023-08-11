@@ -1,4 +1,4 @@
-# AmaJi-Final-doing-for-the-good
+# AmaJi-Doing-for-the-good
 
 HOME PAGE
 <img width="960" alt="amaji" src="https://github.com/xymate/AmaJi-Final-doing-for-the-good/assets/77551829/e81f2265-5c58-45a6-878c-04fc39717b94">

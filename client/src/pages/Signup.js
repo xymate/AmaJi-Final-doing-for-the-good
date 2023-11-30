@@ -28,7 +28,7 @@ function Signup() {
   const handleSubmit = async (event) => {
     event.preventDefault();
     try {
-      const response = await axios.post("http://localhost:3001/auth/register", {
+      const response = await axios.post("https://amaji-backend.onrender.com/auth/register", {
         firstName,
         lastName,
         email,
